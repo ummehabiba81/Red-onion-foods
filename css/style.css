@@ -1,0 +1,82 @@
+nav img{
+    height: 40px;
+    width: 180px;
+    margin-left: 50px !important;
+}
+.sign-up{
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    background-color: rgb(223, 13, 13);
+}
+header nav ul li a{
+    font-weight: 500 !important;
+}
+.hero-image{
+    background-image: url(../images/bannerbackground.png) ;
+    height: 500px ;
+}
+.heading{
+    margin-top: 160px;
+    margin-bottom: 40px;
+    font-weight: 500;
+}
+.search-input{
+    width: 400px;
+    height: 40px;
+    border: none;
+    border-radius: 50px;
+    padding: 5px 25px;
+}
+.search-btn{
+    background-color: rgb(223, 13, 13);
+    color: white;
+    font-weight: bold;
+    height: 40px;
+    border: none;
+    border-radius: 50px;
+    padding: 5px 25px;
+    margin-left: -40px;
+    
+}
+.red-color{
+    color:  rgb(223, 13, 13);
+}
+.red-color-new:hover{
+    color:  rgb(223, 13, 13);
+}
+.image{
+    height: 250px;
+    width: 250px;
+    margin-left: 25px;
+}
+.box-shadow:hover{
+    box-shadow: 10px 10px 30px gray;
+    padding: 20px;
+}
+.checkout-btn{
+    padding: 10px 50px;
+    font-weight: 400;
+    color: white;
+    background-color: gray;
+    border: none;
+    border-radius: 5px;
+}
+.heading-2{
+    font-weight: 400;
+}
+.color-gray{
+    color: gray;
+}
+.fa-bus, .fa-bell, .fa-truck{
+    color: white;
+    background-color:  rgb(223, 13, 13);
+    padding: 15px;
+    border-radius: 50%;
+}
+.fa-arrow-right{
+    color: white;
+    background-color:  rgb(13, 223, 41);
+    padding: 5px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
